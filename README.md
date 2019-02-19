@@ -7,6 +7,8 @@ A curated list of awesome resources for using [Panda3D](https://www.panda3d.org/
 * [Modules](#modules)
 
 ## Tutorials
+* [Thaumaturge's Beginner's Tutorial](https://arsthaumaturgis.github.io/Panda3DTutorial.io/):
+  A set of lessions that teach the basics of creating a game using Panda3D, from the fundamentals to building a distributable version
 
 ## Code Snippets
 * [TheCheapestPixel's Panda3D Examples](https://github.com/TheCheapestPixels/panda_examples):
