@@ -13,3 +13,5 @@ A curated list of awesome resources for using [Panda3D](https://www.panda3d.org/
   Minimalistic examples demonstrating bits and bobs of Panda3D's API.
 
 ## Modules
+* [tobspr's RenderPipeline](https://github.com/tobspr/RenderPipeline):
+  A beautiful deferred realtime rendering pipeline with physically based shading and many builtin effects
