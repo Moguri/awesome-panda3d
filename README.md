@@ -7,6 +7,10 @@ A curated list of awesome resources for using [Panda3D](https://www.panda3d.org/
 * [Modules](#modules)
 
 ## Tutorials
+* [Fireclaw's Panda3D Art Creation with Blender](https://github.com/fireclawthefox/panda3d-tutorial2):
+  A book that teaches how to create game ready models with Blender and export them to be usable with Panda3D
+* [Fireclaw's Panda3D Game Development Book](https://github.com/fireclawthefox/panda3d-tutorial):
+  A book that teaches the development of games from scratch to deployment and beyond with Panda3D 1.9 and up
 * [Thaumaturge's Beginner's Tutorial](https://arsthaumaturgis.github.io/Panda3DTutorial.io/):
   A set of lessions that teach the basics of creating a game using Panda3D, from the fundamentals to building a distributable version
 
