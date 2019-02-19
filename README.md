@@ -5,6 +5,8 @@ A curated list of awesome resources for using [Panda3D](https://www.panda3d.org/
 * [Tutorials](#tutorials)
 * [Code Snippets](#code-snippets)
 * [Modules](#modules)
+* [Exporters](#exporters)
+  * [Blender](#blender)
 
 ## Tutorials
 * [Fireclaw's Panda3D Art Creation with Blender](https://github.com/fireclawthefox/panda3d-tutorial2):
@@ -21,3 +23,6 @@ A curated list of awesome resources for using [Panda3D](https://www.panda3d.org/
 ## Modules
 * [tobspr's RenderPipeline](https://github.com/tobspr/RenderPipeline):
   A beautiful deferred realtime rendering pipeline with physically based shading and many builtin effects
+
+## Exporters
+### Blender
