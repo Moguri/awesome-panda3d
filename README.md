@@ -1,4 +1,7 @@
 # Awesome Panda3D [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
+[![Panda3D logo](panda3d_logo.png)](https://www.panda3d.org/)
+
 A curated list of awesome resources for using [Panda3D](https://www.panda3d.org/)
 
 ## Contents
