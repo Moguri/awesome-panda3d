@@ -33,3 +33,11 @@ A curated list of awesome resources for using [Panda3D](https://www.panda3d.org/
 
 ## Exporters
 ### Blender
+* [YABEE](https://github.com/09th/YABEE):
+  Exports to the EGG format and is the most battle-tested export pipeline for getting Blender data into Panda3D
+* [BAM Exporter](https://github.com/tobspr/Panda3D-Bam-Exporter)
+  Exports to BAM and supports the material format used by [tobspr's RenderPipeline](https://github.com/tobspr/RenderPipeline)
+* [BlenderPanda](https://github.com/Moguri/BlenderPanda)
+  Exports to BAM using [blend2bam](https://github.com/Moguri/panda3d-blend2bam)
+* [blend2bam](https://github.com/Moguri/panda3d-blend2bam)
+  A command line tool to convert blend files to BAM (requires Blender to be installed)
