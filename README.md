@@ -8,7 +8,7 @@ A curated list of awesome resources for using [Panda3D](https://www.panda3d.org/
 * [Tutorials](#tutorials)
 * [Code Snippets](#code-snippets)
 * [Modules](#modules)
-* [Tools] (#tools)
+* [Tools](#tools)
 * [Exporters](#exporters)
   * [Blender](#blender)
 
