@@ -8,6 +8,7 @@ A curated list of awesome resources for using [Panda3D](https://www.panda3d.org/
 * [Tutorials](#tutorials)
 * [Code Snippets](#code-snippets)
 * [Modules](#modules)
+* [Tools] (#tools)
 * [Exporters](#exporters)
   * [Blender](#blender)
 
@@ -30,6 +31,10 @@ A curated list of awesome resources for using [Panda3D](https://www.panda3d.org/
   A beautiful deferred realtime rendering pipeline with physically based shading and many builtin effects
 * [Fireclaw's Character Controller](https://launchpad.net/extended-char-controller)
   A ready to use character controller with extensive feature set for multiple genres
+
+## Tools
+* [pman](https://github.com/Moguri/pman):
+  A tool for code management, including quickstart and distribution. Go from zero to binary with just `pman create . && pman dist`!
 
 ## Exporters
 ### Blender
