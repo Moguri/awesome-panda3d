@@ -14,17 +14,21 @@ A curated list of awesome resources for using [Panda3D](https://www.panda3d.org/
 
 ## Tutorials
 * [Fireclaw's Panda3D Game Development Book](https://github.com/fireclawthefox/panda3d-tutorial):
-  A book that teaches the development of games from scratch to deployment and beyond with Panda3D 1.9 and up
+  A book that teaches the development of games from scratch to deployment and beyond with Panda3D 1.9 and up.
 * [Fireclaw's Panda3D Art Creation with Blender](https://github.com/fireclawthefox/panda3d-tutorial2):
-  A book that teaches how to create game ready models with Blender and export them to be usable with Panda3D
+  A book that teaches how to create game ready models with Blender and export them to be usable with Panda3D.
 * [Thaumaturge's Beginner's Tutorial](https://arsthaumaturgis.github.io/Panda3DTutorial.io/):
-  A set of lessions that teach the basics of creating a game using Panda3D, from the fundamentals to building a distributable version
+  A set of lessions that teach the basics of creating a game using Panda3D, from the fundamentals to building a distributable version.
 
 ## Code Snippets
 * [TheCheapestPixel's Panda3D Examples](https://github.com/TheCheapestPixels/panda_examples):
-  Minimalistic examples demonstrating bits and bobs of Panda3D's API
+  Minimalistic examples demonstrating bits and bobs of Panda3D's API.
 * [Fireclaw's Code Collection](https://launchpad.net/panda3dcodecollection)
-  Collection of more than 70 code snippets and small samples
+  Collection of more than 70 code snippets and small samples.
+  
+## Full source code games
+* [Yorg (Yorg's an Open Racing Game)](https://github.com/cflavio/yorg): A free open source racing game developed by Ya2 using Panda3D for Windows, OSX and Linux. [Game page](https://www.ya2.it/pages/yorg.html)
+* [Lucrezia](https://github.com/snizzo/lucrezia): A Panda3D RPG engine.
 
 ## Modules
 * [tobspr's RenderPipeline](https://github.com/tobspr/RenderPipeline):
