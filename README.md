@@ -23,13 +23,13 @@ A curated list of awesome resources for using [Panda3D](https://www.panda3d.org/
 ## Code Snippets
 * [TheCheapestPixel's Panda3D Examples](https://github.com/TheCheapestPixels/panda_examples):
   Minimalistic examples demonstrating bits and bobs of Panda3D's API
-* [Fireclaw's Code Collection](https://launchpad.net/panda3dcodecollection)
+* [Fireclaw's Code Collection](https://launchpad.net/panda3dcodecollection):
   Collection of more than 70 code snippets and small samples
 
 ## Modules
 * [tobspr's RenderPipeline](https://github.com/tobspr/RenderPipeline):
   A beautiful deferred realtime rendering pipeline with physically based shading and many builtin effects
-* [Fireclaw's Character Controller](https://launchpad.net/extended-char-controller)
+* [Fireclaw's Character Controller](https://launchpad.net/extended-char-controller):
   A ready to use character controller with extensive feature set for multiple genres
 
 ## Tools
@@ -40,9 +40,9 @@ A curated list of awesome resources for using [Panda3D](https://www.panda3d.org/
 ### Blender
 * [YABEE](https://github.com/09th/YABEE):
   Exports to the EGG format and is the most battle-tested export pipeline for getting Blender data into Panda3D
-* [BAM Exporter](https://github.com/tobspr/Panda3D-Bam-Exporter)
+* [BAM Exporter](https://github.com/tobspr/Panda3D-Bam-Exporter):
   Exports to BAM and supports the material format used by [tobspr's RenderPipeline](https://github.com/tobspr/RenderPipeline)
-* [BlenderPanda](https://github.com/Moguri/BlenderPanda)
-  Exports to BAM using [blend2bam](https://github.com/Moguri/panda3d-blend2bam)
-* [blend2bam](https://github.com/Moguri/panda3d-blend2bam)
+* [blend2bam](https://github.com/Moguri/panda3d-blend2bam):
   A command line tool to convert blend files to BAM (requires Blender to be installed)
+* [BlenderPanda](https://github.com/Moguri/BlenderPanda):
+  Exports to BAM using [blend2bam](https://github.com/Moguri/panda3d-blend2bam)
