@@ -11,6 +11,9 @@ A curated list of awesome resources for using [Panda3D](https://www.panda3d.org/
 * [Tools](#tools)
 * [Exporters](#exporters)
   * [Blender](#blender)
+* [Games Made with Panda3D](#games-made-with-panda3d)
+  * [Open Source](#open-source)
+  * [Other](#other)
 
 ## Tutorials
 * [Fireclaw's Panda3D Game Development Book](https://github.com/fireclawthefox/panda3d-tutorial):
@@ -46,3 +49,11 @@ A curated list of awesome resources for using [Panda3D](https://www.panda3d.org/
   A command line tool to convert blend files to BAM (requires Blender to be installed)
 * [BlenderPanda](https://github.com/Moguri/BlenderPanda):
   Exports to BAM using [blend2bam](https://github.com/Moguri/panda3d-blend2bam)
+  
+## Games Made with Panda3D
+### Open Source
+* [Yorg](https://www.ya2.it/pages/yorg.html):
+  Yorg (Yorg's an Open Racing Game) is a free open source racing game developed by Ya2 using Panda3D for Windows, OSX and Linux
+### Other
+* [itch.io collection](https://itch.io/c/467802/panda3d-games):
+  Collection of games on itch.io that were made with Panda3D (some are open source)
