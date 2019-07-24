@@ -39,7 +39,7 @@ A curated list of awesome resources for using [Panda3D](https://www.panda3d.org/
 * [pman](https://github.com/Moguri/pman):
   A tool for code management, including quickstart and distribution. Go from zero to binary with just `pman create . && pman dist`!
 
-## Exporters
+## Importers and Exporters
 ### Blender
 * [YABEE](https://github.com/09th/YABEE):
   Exports to the EGG format and is the most battle-tested export pipeline for getting Blender data into Panda3D
@@ -49,6 +49,8 @@ A curated list of awesome resources for using [Panda3D](https://www.panda3d.org/
   A command line tool to convert blend files to BAM (requires Blender to be installed)
 * [BlenderPanda](https://github.com/Moguri/BlenderPanda):
   Exports to BAM using [blend2bam](https://github.com/Moguri/panda3d-blend2bam)
+* [panda3d-gltf](https://github.com/Moguri/panda3d-gltf):
+  Converts glTF 2.0 models to Panda3D's native .bam format
   
 ## Games Made with Panda3D
 ### Open Source
