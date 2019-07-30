@@ -34,6 +34,12 @@ A curated list of awesome resources for using [Panda3D](https://www.panda3d.org/
   A beautiful deferred realtime rendering pipeline with physically based shading and many builtin effects
 * [Fireclaw's Character Controller](https://launchpad.net/extended-char-controller):
   A ready to use character controller with extensive feature set for multiple genres
+* [p3d-rest](https://github.com/NxtStudios/p3d-rest):
+  A Cython based module for utilizing the Panda3D HTTPClient for none blocking RESTful api calls.
+* [p3d-discord](https://github.com/NxtStudios/p3d-discord):
+  Discord RPC module for the Panda3d game engine using the original native discord-rpc library.
+* [p3d-sqs](https://github.com/NxtStudios/p3d-sqs): 
+  An interfacing library for using AWS SQS queues with the Panda3D game engine
 
 ## Tools
 * [pman](https://github.com/Moguri/pman):
