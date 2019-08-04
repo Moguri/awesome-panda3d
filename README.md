@@ -40,6 +40,8 @@ A curated list of awesome resources for using [Panda3D](https://www.panda3d.org/
   Discord RPC module for the Panda3d game engine using the original native discord-rpc library.
 * [p3d-sqs](https://github.com/NxtStudios/p3d-sqs): 
   An interfacing library for using AWS SQS queues with the Panda3D game engine
+* [p3d-sprite](https://github.com/NxtStudios/p3d-sprite)
+  Library for using sprite sheets and animating them in the Panda3D game engine
 
 ## Tools
 * [pman](https://github.com/Moguri/pman):
