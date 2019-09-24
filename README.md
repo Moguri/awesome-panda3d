@@ -22,6 +22,8 @@ A curated list of awesome resources for using [Panda3D](https://www.panda3d.org/
   A book that teaches how to create game ready models with Blender and export them to be usable with Panda3D
 * [Thaumaturge's Beginner's Tutorial](https://arsthaumaturgis.github.io/Panda3DTutorial.io/):
   A set of lessions that teach the basics of creating a game using Panda3D, from the fundamentals to building a distributable version
+* [Lettier's 3D Game Shaders For Beginners](https://github.com/lettier/3d-game-shaders-for-beginners):
+  A "a collection of shading techniques that will take your game visuals to new heights" with plenty of explanations that also  uses Panda3D for the example code.
 
 ## Code Snippets
 * [TheCheapestPixel's Panda3D Examples](https://github.com/TheCheapestPixels/panda_examples):
