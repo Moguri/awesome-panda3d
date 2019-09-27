@@ -36,6 +36,8 @@ A curated list of awesome resources for using [Panda3D](https://www.panda3d.org/
   A beautiful deferred realtime rendering pipeline with physically based shading and many builtin effects
 * [Fireclaw's Character Controller](https://launchpad.net/extended-char-controller):
   A ready to use character controller with extensive feature set for multiple genres
+* [CFSworks's Limeade](https://github.com/CFSworks/limeade):
+  Refresh your Python code without restarting your Panda app
 
 ## Tools
 * [pman](https://github.com/Moguri/pman):
