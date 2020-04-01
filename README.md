@@ -61,5 +61,5 @@ A curated list of awesome resources for using [Panda3D](https://www.panda3d.org/
 * [Yorg](https://www.ya2.it/pages/yorg.html):
   Yorg (Yorg's an Open Racing Game) is a free open source racing game developed by Ya2 using Panda3D for Windows, OSX and Linux
 ### Other
-* [itch.io collection](https://itch.io/c/467802/panda3d-games):
+* [itch.io collection](https://itch.io/c/803175/made-with-panda3d):
   Collection of games on itch.io that were made with Panda3D (some are open source)
