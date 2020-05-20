@@ -14,6 +14,7 @@ A curated list of awesome resources for using [Panda3D](https://www.panda3d.org/
 * [Games Made with Panda3D](#games-made-with-panda3d)
   * [Open Source](#open-source)
   * [Other](#other)
+* [Resources](#resources)
 
 ## Tutorials
 * [Fireclaw's Panda3D Game Development Book](https://github.com/fireclawthefox/panda3d-tutorial):
@@ -26,7 +27,7 @@ A curated list of awesome resources for using [Panda3D](https://www.panda3d.org/
   A "a collection of shading techniques that will take your game visuals to new heights" with plenty of explanations that also  uses Panda3D for the example code.
 
 ## Code Snippets
-* [TheCheapestPixel's Panda3D Examples](https://github.com/TheCheapestPixels/panda_examples):
+* [TheCheapestPixels' Panda3D Examples](https://github.com/TheCheapestPixels/panda_examples):
   Minimalistic examples demonstrating bits and bobs of Panda3D's API
 * [Fireclaw's Code Collection](https://launchpad.net/panda3dcodecollection):
   Collection of more than 70 code snippets and small samples
@@ -38,6 +39,8 @@ A curated list of awesome resources for using [Panda3D](https://www.panda3d.org/
   A ready to use character controller with extensive feature set for multiple genres
 * [CFSworks's Limeade](https://github.com/CFSworks/limeade):
   Refresh your Python code without restarting your Panda app
+* [TheCheapestPixels' Stageflow](https://github.com/TheCheapestPixels/panda3d-stageflow):
+  Encapsulate stages of your game (splashs, credits, cutscenes, menus...)
 
 ## Tools
 * [pman](https://github.com/Moguri/pman):
@@ -63,3 +66,7 @@ A curated list of awesome resources for using [Panda3D](https://www.panda3d.org/
 ### Other
 * [itch.io collection](https://itch.io/c/803175/made-with-panda3d):
   Collection of games on itch.io that were made with Panda3D (some are open source)
+
+## Resources
+* [Panda3D logo](https://github.com/TheCheapestPixels/panda3d-logos):
+  Image files for the Panda3D logo, and a splash screen `Interval`
