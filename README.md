@@ -41,6 +41,8 @@ A curated list of awesome resources for using [Panda3D](https://www.panda3d.org/
   Refresh your Python code without restarting your Panda app
 * [TheCheapestPixels' Stageflow](https://github.com/TheCheapestPixels/panda3d-stageflow):
   Encapsulate stages of your game (splashs, credits, cutscenes, menus...)
+* [panda3d-simplepbr](https://github.com/Moguri/panda3d-simplepbr/)
+  A simple, basic, lightweight, no-frills PBR render pipeline for Panda3D 
 
 ## Tools
 * [pman](https://github.com/Moguri/pman):
