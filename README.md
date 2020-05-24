@@ -54,8 +54,6 @@ A curated list of awesome resources for using [Panda3D](https://www.panda3d.org/
   Exports to BAM and supports the material format used by [tobspr's RenderPipeline](https://github.com/tobspr/RenderPipeline)
 * [blend2bam](https://github.com/Moguri/panda3d-blend2bam):
   A command line tool to convert blend files to BAM (requires Blender to be installed)
-* [BlenderPanda](https://github.com/Moguri/BlenderPanda):
-  Exports to BAM using [blend2bam](https://github.com/Moguri/panda3d-blend2bam)
 * [panda3d-gltf](https://github.com/Moguri/panda3d-gltf):
   Converts glTF 2.0 models to Panda3D's native .bam format
   
