@@ -70,3 +70,5 @@ A curated list of awesome resources for using [Panda3D](https://www.panda3d.org/
 ## Resources
 * [Panda3D logo](https://github.com/TheCheapestPixels/panda3d-logos):
   Image files for the Panda3D logo, and a splash screen `Interval`
+* [OpenGameArt](https://opengameart.org/):
+  A collection of art (2D, 3D, audio, etc.) under open licenses (e.g., Creative Commons)
