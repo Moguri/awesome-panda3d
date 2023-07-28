@@ -13,7 +13,7 @@ A curated list of awesome resources for using [Panda3D](https://www.panda3d.org/
 * [Games Made with Panda3D](#games-made-with-panda3d)
   * [Open Source](#open-source)
   * [Other](#other)
-* [Resources](#resources)
+* [Assets](#assets)
 
 ## Tutorials
 * [Fireclaw's Panda3D Game Development Book](https://github.com/fireclawthefox/panda3d-tutorial):
@@ -65,7 +65,7 @@ A curated list of awesome resources for using [Panda3D](https://www.panda3d.org/
 * [itch.io collection](https://itch.io/c/803175/made-with-panda3d):
   Collection of games on itch.io that were made with Panda3D (some are open source)
 
-## Resources
+## Assets
 * [ambientCG](https://ambientcg.com/):
   A public domain 3D library
 * [OpenGameArt](https://opengameart.org/):
