@@ -38,6 +38,8 @@ A curated list of awesome resources for using [Panda3D](https://www.panda3d.org/
   Refresh your Python code without restarting your Panda app
 * [RenderPipeline](https://github.com/tobspr/RenderPipeline):
   A beautiful deferred realtime rendering pipeline with physically based shading and many builtin effects
+* [panda3d-complexpbr](https://github.com/rayanalysis/panda3d-complexpbr)
+  IBL rendering module supporting real-time reflections and post-processing effects
 * [panda3d-simplepbr](https://github.com/Moguri/panda3d-simplepbr/):
   A straight-forward, easy-to-use, drop-in, PBR replacement for Panda3D's builtin auto shader 
 * [panda3d-stageflow](https://github.com/TheCheapestPixels/panda3d-stageflow):
