@@ -39,7 +39,7 @@ A curated list of awesome resources for using [Panda3D](https://www.panda3d.org/
 * [RenderPipeline](https://github.com/tobspr/RenderPipeline):
   A beautiful deferred realtime rendering pipeline with physically based shading and many builtin effects
 * [panda3d-simplepbr](https://github.com/Moguri/panda3d-simplepbr/):
-  A simple, basic, lightweight, no-frills PBR render pipeline for Panda3D 
+  A straight-forward, easy-to-use, drop-in, PBR replacement for Panda3D's builtin auto shader 
 * [panda3d-stageflow](https://github.com/TheCheapestPixels/panda3d-stageflow):
   Encapsulate stages of your game (splashs, credits, cutscenes, menus...)
 * [types-panda3d](https://github.com/WMOkiishi/types-panda3d):
